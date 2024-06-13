@@ -1,0 +1,9 @@
+Flask
+gunicorn
+tensorflow
+numpy
+pillow
+pandas
+google-cloud-sql-connector
+sqlalchemy
+pg8000
